@@ -1,0 +1,4 @@
+<0> - developer mode
+<0> - fullscreen
+<0> - show caracters
+<3> - set number playes (0 - set in program)
